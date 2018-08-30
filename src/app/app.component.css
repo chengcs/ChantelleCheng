@@ -1,4 +1,4 @@
-div {
+.floater {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -15,4 +15,11 @@ h1 {
 
 p {
     font-size: 2em;
+}
+
+.fa {
+    color: #fff;
+    font-size: 4em;
+    padding: 0em .1em 0em .1em;
+
 }
