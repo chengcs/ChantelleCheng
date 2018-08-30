@@ -3,4 +3,6 @@ body {
     width: 100vh;
     background: url('assets/rainierbridge.jpg') no-repeat top center;
     background-size: cover;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
 }
